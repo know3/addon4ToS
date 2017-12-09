@@ -1,0 +1,14 @@
+[
+	{
+		"name" : "Silver Popup",
+		"file" : "silverpopup",
+		"extension" : "ipf",
+		"fileVersion" : "v1.0.1",
+		"releaseTag" : "silverpopup",
+		"unicode" : "⛄",
+		"description" : "手に入れたシルバーをキャラ横に表示する。",
+		"tags" : [
+			"silver"
+		]
+	}
+]
