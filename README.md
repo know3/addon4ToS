@@ -2,7 +2,7 @@
 ToS用アドオン開発
 
 ## 使い方
-IPFファイルをToSのdataフォルダに突っ込んで、ToS起動
+アドオンマネージャ（JTOS）でsilverと検索してインストール！
 
 ### SilverPopup
 Exp Popupリスペクトのアドオンです。
