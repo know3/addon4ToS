@@ -3,7 +3,7 @@
 		"name" : "Silver Popup",
 		"file" : "silverpopup",
 		"extension" : "ipf",
-		"fileVersion" : "v1.0.1",
+		"fileVersion" : "v1.0.2",
 		"releaseTag" : "silverpopup",
 		"unicode" : "⛄",
 		"description" : "手に入れたシルバーをキャラ横に表示する。",
